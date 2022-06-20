@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "php": ">=8.0"
+        "php": ">=8.0",
+        "lilith/http-request": "dev-master"
     },
     "autoload": {
         "psr-4": {
